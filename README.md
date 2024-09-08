@@ -7,7 +7,7 @@ Camouflaged object detection (COD) aims to segment objects that visually blend i
 The code, trained model will be available upon acceptance of this paper for publication.
 
 ## Results Links
-- [Results](https://pan.baidu.com/s/15u_6SWNKlCGK_H0hIIkEaQ)
-- 提取码：fxss
+- [Google](https://drive.google.com/file/d/1lpnYifazOicPPwd8fy1bXg5GyyGPwKrD/view?usp=sharing)
+
 
 
