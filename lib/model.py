@@ -586,7 +586,7 @@ class SwinTransformer(nn.Module):
         flops += self.num_features * self.num_classes
         return flops
 
-############################模块#############################
+############################module#############################
 
 class ConvBNR(nn.Module):
     def __init__(self, inplanes, planes, kernel_size=3, stride=1, dilation=1, bias=False):
